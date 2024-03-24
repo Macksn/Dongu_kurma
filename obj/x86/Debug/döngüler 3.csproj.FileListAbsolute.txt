@@ -1,0 +1,7 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\bin\Debug\döngüler 3.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\bin\Debug\döngüler 3.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\obj\x86\Debug\döngüler_3.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\obj\x86\Debug\döngüler_3.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\obj\x86\Debug\döngüler 3.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\obj\x86\Debug\döngüler 3.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\döngüler 3\döngüler 3\obj\x86\Debug\döngüler 3.pdb
